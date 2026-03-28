@@ -31,3 +31,10 @@
 ---
 
 ## 📁 Project Structure 
+BackendRev/
+│
+├── Backend/ # Node + Express API
+│
+├── Frontend/ # React (Vite)
+│
+└── README.md
